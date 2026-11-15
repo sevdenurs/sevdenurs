@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sevde-nur-ta%C5%9Fk%C4%B1n-bb7648256)
 
-### Tech
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mysql,html,css,bootstrap,python&theme=dark" />
 
 ![](https://visitcount.itsvg.in/api?id=sevdenurs&icon=2&color=0)
