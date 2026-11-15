@@ -1,13 +1,73 @@
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sevde-nur-ta%C5%9Fk%C4%B1n-bb7648256) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
----
-![tecna](https://github.com/sevdenurs/sevdenurs/assets/119888860/3e275bdc-6e7e-4c22-a38c-42583ae4c2ed)
----
-[![](https://visitcount.itsvg.in/api?id=sevdenurs&icon=2&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Hey there! 👋 I'm Sevde
+
+### 💻 Full-Stack Developer
+
+Building modern web applications, APIs and mobile experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sevde-nur-ta%C5%9Fk%C4%B1n-bb7648256)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevdenurs)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🚀 Full-Stack Development
+- 💻 Building applications with React, Next.js & Express.js
+- 📱 Exploring mobile development with React Native
+- 🛠️ Interested in backend architecture, APIs and system design
+- 🌱 Always learning and building new things
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+
+### 🗄️ Databases
+![Database](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### 📱 Mobile Development
+![Mobile](https://skillicons.dev/icons?i=react&theme=dark)
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### 🔧 Tools & Technologies
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark)
+
+### ✨ Other Technologies
+![Other](https://skillicons.dev/icons?i=python,c,cs,unity&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sevdenurs&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevdenurs&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![tecna](https://github.com/sevdenurs/sevdenurs/assets/119888860/3e275bdc-6e7e-4c22-a38c-42583ae4c2ed)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sevdenurs&color=blueviolet&style=flat-square)
+
+</div>
 
